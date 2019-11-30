@@ -1,0 +1,15 @@
+{
+  "name": "colorpicker",
+  "version": "1.0.0",
+  "description": "nothing for fun only",
+  "main": "color.js",
+  "dependencies": {
+    "minifier": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "giorgi tandilashvili",
+  "license": "ISC"
+}
