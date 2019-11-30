@@ -4,7 +4,8 @@
   "description": "nothing for fun only",
   "main": "color.js",
   "dependencies": {
-    "minifier": "^0.8.1"
+    "minifier": "^0.8.1",
+    "minify": "^4.1.3"
   },
   "devDependencies": {},
   "scripts": {
